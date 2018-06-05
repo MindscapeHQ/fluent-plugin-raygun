@@ -23,7 +23,7 @@ Once FluentD has been installed following the instructions detailed [here](https
 
 Install the Raygun plugin using ```gem```:
 
-```gem install fluent-plugin-raygun```
+```fluent-gem install fluent-plugin-raygun```
 
 Update your FluentD config to include a matching rule to output to Raygun:
 
