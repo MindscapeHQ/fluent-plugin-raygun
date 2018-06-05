@@ -19,7 +19,7 @@ This plugin requires:
 - FluentD v0.12 or v0.10
 
 ## Setup Instructions
-Once FluentD has been installed following the instructions detailed here.
+Once FluentD has been installed following the instructions detailed [here](https://docs.fluentd.org/v0.12/articles/install-by-gem "FluentD documentation").
 
 Install the Raygun plugin using ```gem```:
 
